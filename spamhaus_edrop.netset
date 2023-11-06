@@ -9,15 +9,15 @@
 # Maintainer      : Spamhaus.org
 # Maintainer URL  : http://www.spamhaus.org/
 # List source URL : http://www.spamhaus.org/drop/edrop.txt
-# Source File Date: Fri Nov  3 23:10:52 UTC 2023
+# Source File Date: Sun Nov  5 21:51:18 UTC 2023
 #
 # Category        : reputation
-# Version         : 449
+# Version         : 450
 #
-# This File Date  : Sat Nov  4 10:08:06 UTC 2023
+# This File Date  : Mon Nov  6 00:00:12 UTC 2023
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 338 subnets, 641024 unique IPs
+# Entries         : 331 subnets, 639232 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,7 +29,6 @@
 # Processed with FireHOL's iprange
 #
 2.56.247.0/24
-2.59.254.0/24
 5.42.64.0/22
 5.42.92.0/24
 5.105.62.0/24
@@ -130,7 +129,6 @@
 77.91.124.0/24
 78.40.143.0/24
 79.110.22.0/24
-79.110.48.0/24
 79.110.62.0/23
 79.137.192.0/24
 80.66.64.0/24
@@ -171,11 +169,9 @@
 91.243.93.0/24
 92.87.6.0/24
 93.90.74.0/24
-93.123.118.0/24
 94.131.220.0/23
 94.142.138.0/24
 94.156.6.0/24
-94.156.102.0/24
 94.156.161.0/24
 94.156.253.0/24
 95.161.128.0/24
@@ -185,7 +181,6 @@
 103.51.124.0/22
 103.71.92.0/24
 103.92.145.0/24
-103.99.54.0/24
 103.109.107.0/24
 103.153.254.0/23
 103.186.116.0/23
@@ -193,7 +188,6 @@
 103.212.81.0/24
 103.230.8.0/24
 104.129.60.0/24
-104.129.63.0/24
 104.223.134.0/24
 104.223.222.0/24
 107.150.4.0/22
@@ -309,7 +303,6 @@
 195.22.149.0/24
 195.133.16.0/23
 195.133.38.0/23
-195.133.41.0/24
 195.178.120.0/24
 198.55.120.0/24
 199.7.40.0/22
