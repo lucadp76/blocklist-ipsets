@@ -9,15 +9,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/strongips.txt
-# Source File Date: Thu Nov 23 09:30:03 UTC 2023
+# Source File Date: Thu Nov 23 13:06:02 UTC 2023
 #
 # Category        : attacks
-# Version         : 53284
+# Version         : 53287
 #
-# This File Date  : Thu Nov 23 09:36:11 UTC 2023
+# This File Date  : Thu Nov 23 13:08:09 UTC 2023
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 406 unique IPs
+# Entries         : 405 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -144,6 +144,7 @@
 111.68.98.152
 111.93.200.50
 111.95.141.34
+111.118.21.121
 111.161.41.156
 112.31.56.247
 112.64.32.118
@@ -246,7 +247,6 @@
 159.223.59.81
 160.153.252.142
 161.35.108.241
-162.243.56.229
 162.243.61.162
 164.77.117.10
 164.177.31.66
@@ -326,7 +326,6 @@
 186.147.129.110
 186.147.237.51
 187.109.253.246
-187.141.135.181
 187.188.193.211
 187.188.206.106
 187.188.240.7
